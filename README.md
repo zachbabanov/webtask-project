@@ -12,5 +12,5 @@
    Used jQuery templates and style guides to develop a dynamic-size multipage site
 ## Testing and deploy
    Link to test:
-   ###
-      http://80085games.rf.gd/
+
+   http://80085games.rf.gd/
